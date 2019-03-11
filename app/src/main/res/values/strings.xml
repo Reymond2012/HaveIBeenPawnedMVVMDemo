@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HaveIBeenPwnedMVVMDemo</string>
+    <string name="etDomain">Enter Domain Name</string>
+</resources>
